@@ -3,3 +3,4 @@ test.py
 PyTorch-GAN
 images
 *.pth
+data
